@@ -1,4 +1,3 @@
-  
 package jp.sozolab.fahlog.service;
 
 import android.content.Context;
